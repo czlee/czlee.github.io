@@ -3,7 +3,7 @@ Chuan-Zheng Lee
 
 Hi! There's not much to see here, yet.
 
-For information about my teaching and research while at Stanford, please see my Stanford web page, https://web.stanford.edu/~czlee.
+For information about my teaching and research while at Stanford, please see my Stanford web page, [https://web.stanford.edu/~czlee](https://web.stanford.edu/~czlee).
 
 Debating software projects
 --------------------------
