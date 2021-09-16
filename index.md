@@ -1,0 +1,14 @@
+Chuan-Zheng Lee
+===============
+
+Hi! There's not much to see here, yet.
+
+For information about my teaching and research while at Stanford, please see my Stanford web page, https://web.stanford.edu/~czlee.
+
+Debating software projects
+--------------------------
+
+In my spare time, I've written software for competitive debating tournaments
+- [Tabbycat](https://github.com/TabbycatDebate/tabbycat), a draw tabulation system for debate tournaments.
+- [Adjumo](https://github.com/czlee/adjumo), a system that uses optimization to help allocate adjudicators at large debate tournaments.
+- [Debatekeeper](https://github.com/czlee/debatekeeper), a timer for debate speeches for Android phones.
