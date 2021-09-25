@@ -4,10 +4,9 @@ title: Chuan-Zheng Lee
 
 Hi! There's not much to see here, yet.
 
-For information about my teaching and research while at Stanford, please see my Stanford web page, [https://web.stanford.edu/~czlee](https://web.stanford.edu/~czlee).
+For information about my teaching and research while at Stanford University, please see [this page](https://czlee.nz/stanford/).
 
-Debating software projects
---------------------------
+## Debating software projects
 
 In my spare time, I've written software for competitive debating tournaments.
 - [Tabbycat](https://github.com/TabbycatDebate/tabbycat), a draw tabulation system for debate tournaments.
