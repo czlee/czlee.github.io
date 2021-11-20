@@ -1,8 +1,6 @@
----
-title: Chuan-Zheng Lee
----
-
 Hi! There's not too much to see here, yet.
+
+# Pages about some of my work
 
 - **[Archive of my Stanford academic page](stanford/)**
 
@@ -14,8 +12,8 @@ Hi! There's not too much to see here, yet.
   I've been involved in debating software since 2012. This page lists the three main projects I've
   been part of.
 
+# Other places you can find me
 
-Other places you can find me:
 [GitHub](https://github.com/czlee) ⋅
 [LinkedIn](https://www.linkedin.com/in/czlee/) ⋅
 [Twitter](https://twitter.com/czczlee) ⋅
