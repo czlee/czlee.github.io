@@ -16,6 +16,7 @@ Hi! There's not too much to see here, yet.
 
 
 Other places you can find me:
+[GitHub](https://github.com/czlee) ⋅
 [LinkedIn](https://www.linkedin.com/in/czlee/) ⋅
 [Twitter](https://twitter.com/czczlee) ⋅
 [Medium](https://czlee.medium.com)
