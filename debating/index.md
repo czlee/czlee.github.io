@@ -1,3 +1,5 @@
+[← Back to main page](/)
+
 # Debating software projects
 
 In my spare time, I've written software for competitive debating tournaments.
