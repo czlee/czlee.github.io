@@ -15,7 +15,7 @@ In my spare time, I've written software for competitive debating tournaments.
   We wrote it for Thessaloniki WUDC 2016. It didn't go very well, and I describe the system as well
   as the issues we had with it in [this document](adjumo.pdf).
 
-- **[Debatekeeper](https://github.com/czlee/debatekeeper)**, a Android timer app
+- **[Debatekeeper](https://github.com/czlee/debatekeeper)**, an Android timer app
 
   My first debating software project was an Android app to time debates, first released in 2012. I
   released version 1.3 in October 2021, and other than maintaining the [debate format
