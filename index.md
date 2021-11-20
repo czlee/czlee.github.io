@@ -2,13 +2,20 @@
 title: Chuan-Zheng Lee
 ---
 
-Hi! There's not much to see here, yet.
+Hi! There's not too much to see here, yet.
 
-For information about my teaching and research while at Stanford University, please see [this page](https://czlee.nz/stanford/).
+- **[Archive of my Stanford academic page](stanford/)**
 
-## Debating software projects
+  From 2013 to 2021, I was a graduate student in electrical engineering at Stanford University.
+  This page contains information about my teaching and research there.
 
-In my spare time, I've written software for competitive debating tournaments.
-- [Tabbycat](https://github.com/TabbycatDebate/tabbycat), a draw tabulation system for debate tournaments.
-- [Adjumo](https://github.com/czlee/adjumo), a system that uses optimization to help allocate adjudicators at large debate tournaments. (I describe the system in [this document](adjumo.pdf).)
-- [Debatekeeper](https://github.com/czlee/debatekeeper), a timer for debate speeches for Android phones.
+- **[Debating software projects](debating/)**
+
+  I've been involved in debating software since 2012. This page lists the three main projects I've
+  been part of.
+
+
+Other places you can find me:
+[LinkedIn](https://www.linkedin.com/in/czlee/) ⋅
+[Twitter](https://twitter.com/czczlee) ⋅
+[Medium](https://czlee.medium.com)
