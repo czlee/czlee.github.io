@@ -1,5 +1,7 @@
 Hi! There's not too much to see here, yet.
 
+I occasionally post thoughts on my Substack, which is called [Everything-Adjacent](https://czlee.substack.com/). It's free (there is no paid option), because it's functionally just a personal blog.
+
 ### Pages about some of my work
 
 - **[Archive of my Stanford academic page](stanford/)**<br />
@@ -15,4 +17,4 @@ Hi! There's not too much to see here, yet.
 [GitHub](https://github.com/czlee) ⋅
 [LinkedIn](https://www.linkedin.com/in/czlee/) ⋅
 [Twitter](https://twitter.com/czczlee) ⋅
-[Medium](https://czlee.medium.com)
+[Substack](https://czlee.substack.com/)
